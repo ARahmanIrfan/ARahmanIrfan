@@ -1,5 +1,5 @@
 <h2><img src="https://slackmojis.com/emojis/61718-usagyuun-laptop/download" width="30"/> &nbsp; Passionate Full Stack Developer | Robust, Scalable Solutions
-<img src="https://media3.giphy.com/media/6kNYZYz1CNdm0/giphy.webp?cid=ecf05e47a1smtntop2yefojkd4nysznhhy1g1qxbis422cn9&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="35" height="50"></h2>
+<img src="https://media3.giphy.com/media/wwoHndUwugaV1klRUq/200w.webp?cid=ecf05e476zvznc8rffpx9vi19umehih8qg1kux44mk4fly03&ep=v1_stickers_search&rid=200w.webp&ct=s" width="35" height="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/YDWBD5MiyRfOSgHG3v/giphy.gif?cid=ecf05e47gwhevnbr1vr5v9ps9po3rv37v3zo2knp10907bto&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
 
 
