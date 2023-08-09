@@ -6,9 +6,9 @@
 
 🚀 Full Stack Developer | Web Enthusiast | Problem Solver
 
-👨‍💻 Crafting seamless and user-friendly web experiences is my forte. With expertise in both frontend and backend development, I bring a holistic approach to building dynamic and responsive applications.
+👨‍💻 I excel at creating smooth and intuitive web interactions. Proficient in both frontend and backend development, I adopt a comprehensive strategy to construct dynamic and adaptable applications.
 
-💼 Currently focusing on mastering the latest web technologies and frameworks, I thrive in fast-paced environments where innovation and creativity are valued.
+💼 My present emphasis is on attaining mastery over cutting-edge web technologies and frameworks. I flourish in dynamic settings that prioritize innovation and creativity, allowing me to thrive.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
