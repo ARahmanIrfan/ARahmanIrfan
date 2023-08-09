@@ -16,7 +16,7 @@
 
 ```javascript
 const AbdulRahman = {
-  jobTitle: "Senior Full Stack Developer",
+  "Full Stack Developer",
   programmingLanguages: ["JavaScript", "Python", "C#" , "C++"],
   askMeAbout: ["web development", "SEO"],
   technologies: {
