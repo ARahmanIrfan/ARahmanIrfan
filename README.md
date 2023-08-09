@@ -1,4 +1,4 @@
-<h2><img src="https://slackmojis.com/emojis/52157-laptop/download" width="30"/> &nbsp; Passionate Full Stack Developer | Robust, Scalable Solutions
+<h2><img src="https://slackmojis.com/emojis/61724-usagyuuun-laptop/download/emojis/52157-laptop/download" width="30"/> &nbsp; Passionate Full Stack Developer | Robust, Scalable Solutions
 <img src="https://media1.giphy.com/media/KCwh6ZXWDqFMs/giphy.gif?cid=ecf05e47pqz7x6lsm5lgy5cf0a9p0z2okjx1tb7xqynlpylj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/YDWBD5MiyRfOSgHG3v/giphy.gif?cid=ecf05e47gwhevnbr1vr5v9ps9po3rv37v3zo2knp10907bto&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
 
