@@ -15,24 +15,24 @@
 ### Some further details about myself  
 
 ```javascript
-const Rayyan = {
+const AbdulRahman = {
   jobTitle: "Senior Full Stack Developer",
-  programmingLanguages: ["JavaScript", "Python", "Java", "C#"],
-  askMeAbout: ["web development", "tech", "app development", "SEO"],
+  programmingLanguages: ["JavaScript", "Python", "C#"],
+  askMeAbout: ["web development", "SEO"],
   technologies: {
-    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Vue.js", "Angular.js", "EJS","React Native"],
-    backend: ["Node.js", "Express.js", "Python (Flask)", "Spring-Boot", ".Net", "NestJs", "Apollo Server"],
+    frontend: ["HTML", "CSS", "JavaScript", "React.js", "React Native"],
+    backend: ["Node.js", "Python (Flask)", "Spring-Boot", "NestJs", "Apollo Server"],
     mobileApp: ["React Native"],
-    databases: ["MongoDB", "MySQL", "SQLite", "OracleDB", "PGAdmin"],
-    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+    databases: ["MySQL", "SQLite", "OracleDB", "PGAdmin"],
+    devOps: ["AWS", "Route53", "Nginx"],
     misc: ["Firebase", "Socket.IO", "Selenium"]
   },
   architecture: ["Serverless Architecture", "Bullet Proof architecture", "Microservice architecture", "Single Page Applications"],
-  fact: "Did you know that the first computer bug was an actual bug? In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term 'debugging' was coined when the moth was removed from the machine."
+fact : The incident involving the moth in the Harvard Mark II computer is often attributed to Grace Hopper, a pioneering computer scientist. She is said to have taped the moth into her logbook with the annotation, "First actual case of bug being found."
 };
 ```
 
-<em><b>In the vast realm of programming, I find immense delight in interacting with fellow developers, exchanging knowledge, and collaborating on innovative projects. 😃 </em>
+<em><b>Within the expansive domain of programming, I derive profound satisfaction from engaging with fellow developers, facilitating the exchange of knowledge, and fostering collaborative efforts on pioneering projects😃 </em>
 
 
 
