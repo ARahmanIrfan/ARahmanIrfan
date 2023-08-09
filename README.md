@@ -1,6 +1,6 @@
 <h2><img src="https://slackmojis.com/emojis/61718-usagyuun-laptop/download" width="30"/> &nbsp; Passionate Full Stack Developer | Solutions
 <img src="https://media3.giphy.com/media/wwoHndUwugaV1klRUq/200w.webp?cid=ecf05e476zvznc8rffpx9vi19umehih8qg1kux44mk4fly03&ep=v1_stickers_search&rid=200w.webp&ct=s" width="35" height="50"></h2>
-<img align='right' src="C:\Users\hp\Downloads\giphy-unscreen.gif" width="230">
+<img align='right' src="https://camo.githubusercontent.com/5d58785874d0a00dbbf742278f28f982699e8598c4b6c92d697c8bce38251765/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f5944574244354d697952664f5367484733762f67697068792e6769663f6369643d656366303565343767776865766e6272317672357639707339706f337276333776337a6f326b6e70313039303762746f2665703d76315f737469636b6572735f736561726368267269643d67697068792e6769662663743d73" width="230">
 
 
 
