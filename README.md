@@ -17,7 +17,7 @@
 ```javascript
 const AbdulRahman = {
   jobTitle: "Senior Full Stack Developer",
-  programmingLanguages: ["JavaScript", "Python", "C#"],
+  programmingLanguages: ["JavaScript", "Python", "C#" , "C++"],
   askMeAbout: ["web development", "SEO"],
   technologies: {
     frontend: ["HTML", "CSS", "JavaScript", "React.js", "React Native"],
@@ -32,7 +32,7 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 };
 ```
 
-<em><b>Within the expansive domain of programming, I derive profound satisfaction from engaging with fellow developers, facilitating the exchange of knowledge, and fostering collaborative efforts on pioneering projects😃 </em>
+<em><b>Amidst the vast expanse of the programming realm, I derive significant fulfillment from my involvement in meaningful interactions with fellow developers. My role encompasses not only enabling the seamless exchange of knowledge but also nurturing synergistic endeavors towards innovative undertakings. 😃 </em>
 
 
 
@@ -43,12 +43,9 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 - 💻 Programming Languages:
 
     [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
   [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-  [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
     
 
 - 📋 Frontend: 
@@ -57,10 +54,7 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-    [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
-    [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
     [![Angular.js](https://img.shields.io/badge/Angular.js-%23DD0031.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angular.io/)
-    [![EJS](https://img.shields.io/badge/EJS-%23FBEAE1.svg?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
     [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 - 🎨 Backend:
@@ -69,9 +63,8 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
     [![Express.js](https://img.shields.io/badge/Express.js-%23333333.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
     [![Python (Flask)](https://img.shields.io/badge/Python%20(Flask)-%23000.svg?style=for-the-badge&logo=python&logoColor=white)](https://flask.palletsprojects.com/)
     [![Spring-Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-    [![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
     [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-    [![Apollo Server](https://img.shields.io/badge/Apollo%20Server-%23FFFFFF.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/docs/apollo-server/)
+
     
 - 💾 Databases:
 
@@ -108,17 +101,17 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 </p>
 
 ### Github stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rayyan056&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rahman-Irfan&theme=radical)](https://git.io/streak-stats) 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left">
-    <a href="https://github.com/usamadevops"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan056&theme=tokyonight&hide_border=true"  width="500" alt="Rayyan056"/></a>
+    <a href="https://github.com/usamadevops"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul-Rahman-Irfan&theme=tokyonight&hide_border=true"  width="500" alt="Abdul-Rahman-Irfan"/></a>
 
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
     
 ## 📞 Contact
 
-Feel free to reach out to me via email or through the contact form on my portfolio website. I'm always open to exciting collaboration opportunities and discussing new projects!
+Do not hesitate to contact me via email or by utilizing the contact form available on my portfolio website. I warmly welcome the chance to explore intriguing collaborative prospects and engage in discussions regarding fresh and innovative projects
 
-- Email: rayyanirfan50@gmail.com
+- Email: abdulrahmanmohammadirfan@gmail.com
