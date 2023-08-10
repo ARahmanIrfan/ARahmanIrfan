@@ -17,15 +17,15 @@
 ```javascript
 const AbdulRahman = {
   "Full Stack Developer",
-  programmingLanguages: ["JavaScript", "Python", "C#" , "C++"],
+  programmingLanguages: ["JavaScript", "Python", "C#", "C++"],
   askMeAbout: ["web development", "SEO"],
   technologies: {
-    frontend: ["HTML", "CSS", "JavaScript", "React.js", "React Native"],
-    backend: ["Node.js", "Python (Flask)", "Spring-Boot", "NestJs", "Apollo Server"],
+    frontend: ["HTML", "CSS", "JavaScript", "React.js"],
+    backend: ["Node.js", "Python (Flask)", "Spring-Boot"],
     mobileApp: ["React Native"],
-    databases: ["MySQL", "SQLite", "OracleDB", "PGAdmin"],
-    devOps: ["AWS", "Route53", "Nginx"],
-    misc: ["Firebase", "Socket.IO", "Selenium"]
+    databases: ["MySQL", "SQLite", "OracleDB],
+    devOps: ["AWS", "Route53"],
+    misc: ["Firebase", "Socket.IO"]
   },
   architecture: ["Serverless Architecture", "Bullet Proof architecture", "Microservice architecture", "Single Page Applications"],
 fact : The incident involving the moth in the Harvard Mark II computer is often attributed to Grace Hopper, a pioneering computer scientist. She is said to have taped the moth into her logbook with the annotation, "First actual case of bug being found."
