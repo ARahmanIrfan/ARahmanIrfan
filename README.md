@@ -60,15 +60,12 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 - 🎨 Backend:
 
     [![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-    [![Express.js](https://img.shields.io/badge/Express.js-%23333333.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
     [![Python (Flask)](https://img.shields.io/badge/Python%20(Flask)-%23000.svg?style=for-the-badge&logo=python&logoColor=white)](https://flask.palletsprojects.com/)
     [![Spring-Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-    [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
     
 - 💾 Databases:
 
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
     [![OracleDB](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
@@ -89,13 +86,12 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
   [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
   [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Route53](https://img.shields.io/badge/Route53-%2340AFD4.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/route53/)
-  [![Nginx](https://img.shields.io/badge/Nginx-%23009688.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+
 
 - 🎛🛠️ Integration and Communication:
 
   [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-  [![Socket.IO](https://img.shields.io/badge/Socket.IO-%230E83CD.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
-  [![Selenium](https://img.shields.io/badge/Selenium-%2300758F.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+
   
     
 </p>
