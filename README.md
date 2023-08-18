@@ -97,13 +97,13 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 </p>
 
 ### Github stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARahmanIrfan&theme=blueberry-duo" width="800" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARahmanIrfan&theme=blueberry-duo" width="700" >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARahmanIrfan&theme=algolia&hide_border=true"  width="800" alt="ARahmanIrfan">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARahmanIrfan&theme=algolia&hide_border=true"  width="700" alt="ARahmanIrfan">
 
 
 
