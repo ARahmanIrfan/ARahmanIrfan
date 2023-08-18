@@ -98,7 +98,7 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 
 ### Github stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARahmanIrfan&theme=dark)](https://git.io/streak-stats) 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" height="800">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
