@@ -1,4 +1,4 @@
-uo<h2><img src="https://slackmojis.com/emojis/61718-usagyuun-laptop/download" width="30"/> &nbsp; Passionate Full Stack Developer | Solutions
+<h2><img src="https://slackmojis.com/emojis/61718-usagyuun-laptop/download" width="30"/> &nbsp; Passionate Full Stack Developer | Solutions
 <img src="https://media3.giphy.com/media/wwoHndUwugaV1klRUq/200w.webp?cid=ecf05e476zvznc8rffpx9vi19umehih8qg1kux44mk4fly03&ep=v1_stickers_search&rid=200w.webp&ct=s" width="35" height="50"></h2>
 <img align='right' src="https://i.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.webp" width="230">
 
