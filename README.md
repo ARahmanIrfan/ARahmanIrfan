@@ -104,7 +104,7 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 
 
 <p align="left">
-    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARahmanIrfan&theme=dark&hide_border=true"  width="500" alt="ARahmanIrfan"/></a>
+    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARahmanIrfan&theme=dark&hide_border=true"  width="800" alt="ARahmanIrfan"/></a>
 
 </p>
 
