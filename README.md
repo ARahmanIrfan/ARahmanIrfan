@@ -104,11 +104,10 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 
 <img src="" >
 
-<picture>
-  <source media="(min-width:650px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARahmanIrfan&theme=tokyonight&hide_border=true">
-  <source media="(min-width:465px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARahmanIrfan&theme=tokyonight&hide_border=true">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARahmanIrfan&theme=tokyonight&hide_border=true" alt="ARahman" style="width:auto;">
-</picture>
+<p align="left">
+    <a href="https://github.com/usamadevops"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan056&theme=tokyonight&hide_border=true"  width="500" alt="Rayyan056"/></a>
+
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
