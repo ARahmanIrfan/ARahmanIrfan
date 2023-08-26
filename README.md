@@ -119,3 +119,7 @@ Do not hesitate to contact me via email. I warmly welcome the chance to explore 
 
 - Email: abdulrahmanmohammadirfan@gmail.com
 - Portfolio: https://abdul-rahman.vercel.app
+
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
