@@ -3,7 +3,6 @@
 <img align='right' src="https://i.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.webp" width="230">
 
 
-
 🚀 Full Stack Developer | Web Enthusiast | Problem Solver
 
 👨‍💻 I excel at creating smooth and intuitive web interactions. Proficient in both frontend and backend development, I adopt a comprehensive strategy to construct dynamic and adaptable applications.
