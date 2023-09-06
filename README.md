@@ -2,7 +2,6 @@
 <img src="https://media3.giphy.com/media/wwoHndUwugaV1klRUq/200w.webp?cid=ecf05e476zvznc8rffpx9vi19umehih8qg1kux44mk4fly03&ep=v1_stickers_search&rid=200w.webp&ct=s" width="35" height="50"></h2>
 <img align='right' src="https://i.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.webp" width="230">
 
-
 🚀 Full Stack Developer | Web Enthusiast | Problem Solver
 
 👨‍💻 I excel at creating smooth and intuitive web interactions. Proficient in both frontend and backend development, I adopt a comprehensive strategy to construct dynamic and adaptable applications.
