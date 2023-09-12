@@ -29,7 +29,6 @@ const AbdulRahman = {
 fact : The incident involving the moth in the Harvard Mark II computer is often attributed to Grace Hopper, a pioneering computer scientist. She is said to have taped the moth into her logbook with the annotation, "First actual case of bug being found."
 };
 ```
-
 <em><b>Amidst the vast expanse of the programming realm, I derive significant fulfillment from my involvement in meaningful interactions with fellow developers. My role encompasses not only enabling the seamless exchange of knowledge but also nurturing synergistic endeavors towards innovative undertakings. 😃 </em>
 
 
