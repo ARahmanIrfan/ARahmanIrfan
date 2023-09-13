@@ -32,7 +32,6 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 <em><b>Amidst the vast expanse of the programming realm, I derive significant fulfillment from my involvement in meaningful interactions with fellow developers. My role encompasses not only enabling the seamless exchange of knowledge but also nurturing synergistic endeavors towards innovative undertakings. 😃 </em>
 
 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
