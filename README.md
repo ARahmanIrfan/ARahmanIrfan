@@ -58,7 +58,6 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
     [![Python (Flask)](https://img.shields.io/badge/Python%20(Flask)-%23000.svg?style=for-the-badge&logo=python&logoColor=white)](https://flask.palletsprojects.com/)
     [![Spring-Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
-    
 - 💾 Databases:
 
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
