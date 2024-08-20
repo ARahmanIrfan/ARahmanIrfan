@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/wwoHndUwugaV1klRUq/200w.webp?cid=ecf05e476zvznc8rffpx9vi19umehih8qg1kux44mk4fly03&ep=v1_stickers_search&rid=200w.webp&ct=s" width="35" height="50"></h2>
 <img align='right' src="https://i.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.webp" width="230">
 
-🚀 Full Stack Developer | Web Enthusiast | Problem Solver
+🚀 Cyber Security Expert | Web Enthusiast | Problem Solver
 
 👨‍💻 I excel at creating smooth and intuitive web interactions. Proficient in both frontend and backend development, I adopt a comprehensive strategy to construct dynamic and adaptable applications.
 
@@ -14,22 +14,19 @@
 
 ```javascript
 const AbdulRahman = {
-  "Full Stack Developer",
-  programmingLanguages: ["JavaScript", "Python", "C#", "C++"],
-  askMeAbout: ["web development", "SEO"],
+  "Cyber Security Expert",
+  programmingLanguages: ["Bash", "Python", "C#", "C++"],
+  askMeAbout: ["cybersecurity", "network administration", "ethical hacking"],
   technologies: {
-    frontend: ["HTML", "CSS", "JavaScript", "React.js"],
-    backend: ["Node.js", "Python (Flask)", "Spring-Boot"],
-    mobileApp: ["React Native"],
-    databases: ["MySQL", "SQLite", "OracleDB],
-    devOps: ["AWS", "Route53"],
-    misc: ["Firebase", "Socket.IO"]
+    cybersecurityTools: ["Wireshark", "Burp Suite", "Nmap", "Metasploit", "Kali Linux"],
+    networkSecurity: ["Firewall Management", "VPNs", "Intrusion Detection Systems (IDS)", "Network Monitoring"],
+    systemManagement: ["Linux/Unix Administration", "Windows Server Management", "Active Directory", "Virtualization"],
+    ethicalHacking: ["Penetration Testing", "Vulnerability Assessment", "Social Engineering"]
   },
-  architecture: ["Serverless Architecture", "Bullet Proof architecture", "Microservice architecture", "Single Page Applications"],
-fact : The incident involving the moth in the Harvard Mark II computer is often attributed to Grace Hopper, a pioneering computer scientist. She is said to have taped the moth into her logbook with the annotation, "First actual case of bug being found."
 };
+
 ```
-<em><b>Amidst the vast expanse of the programming realm, I derive significant fulfillment from my involvement in meaningful interactions with fellow developers. My role encompasses not only enabling the seamless exchange of knowledge but also nurturing synergistic endeavors towards innovative undertakings. 😃 </em>
+<em><b>Amidst the vast expanse of the cybersecurity realm, I derive significant fulfillment from engaging in meaningful interactions with fellow security professionals. My role encompasses not only facilitating the seamless exchange of knowledge but also fostering collaborative efforts toward fortifying systems and driving innovative solutions in the ever-evolving landscape of digital security 😃 </em>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -37,7 +34,7 @@ fact : The incident involving the moth in the Harvard Mark II computer is often 
 
 - 💻 Programming Languages:
 
-    [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    [![Bash Scripting](https://media.licdn.com/dms/image/D4D12AQFyLZBgxb109A/article-cover_image-shrink_600_2000/0/1678105450255?e=2147483647&v=beta&t=uVpOz-H89BuUCtcdN2J5HXp9C5r5h59WMbsJ-gqwjps)
   [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
