@@ -34,7 +34,7 @@ const AbdulRahman = {
 
 - 💻 Programming Languages:
 
-    [![Bash Scripting](https://media.licdn.com/dms/image/D4D12AQFyLZBgxb109A/article-cover_image-shrink_600_2000/0/1678105450255?e=2147483647&v=beta&t=uVpOz-H89BuUCtcdN2J5HXp9C5r5h59WMbsJ-gqwjps)
+ 
   [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
