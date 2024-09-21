@@ -34,7 +34,7 @@ const AbdulRahman = {
 <img src="https://tryhackme-badges.s3.amazonaws.com/cyberabdulrahman.png" alt="TryHackMe">
 <div style="text-align:center">
 	<form action="https://www.ipaddressguide.com/cidr" method="post">
-		<p style="background⚪;border:1px solid #99A8AE;width:180px;padding:5px 5px 5px 5px;font-size:11px;font-family:'Trebuchet MS',Arial,Sans-serif;">
+		<p style="background:#D3D3D3;border:1px solid #99A8AE;width:180px;padding:5px 5px 5px 5px;font-size:11px;font-family:'Trebuchet MS',Arial,Sans-serif;">
 			<a href="https://www.ipaddressguide.com" target="_blank"><img src="https://www.ipaddressguide.com/images/ipaddressguide.png" alt="CIDR to IPv4 Address Range Utility Tool | IPAddressGuide" border="0" width="120" height="12" /></a><br />
 			<b>CIDR to IPv4 Conversion</b><br /><br />
 			<label>CIDR</label><br />
