@@ -26,6 +26,10 @@ const AbdulRahman = {
 };
 
 ```
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<p align="center">
+
 <em><b>Amidst the vast expanse of the cybersecurity realm, I derive significant fulfillment from engaging in meaningful interactions with fellow security professionals. My role encompasses not only facilitating the seamless exchange of knowledge but also fostering collaborative efforts toward fortifying systems and driving innovative solutions in the ever-evolving landscape of digital security 😃 </em>
 <img src="https://tryhackme-badges.s3.amazonaws.com/cyberabdulrahman.png" alt="TryHackMe">
 
